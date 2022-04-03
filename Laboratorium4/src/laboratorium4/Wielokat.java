@@ -12,6 +12,7 @@ import java.util.Random;
 public class Wielokat extends JFrame{
 	//inicjalizacja suwaka
 	//MARCIN MARCIN
+	//dodaje komentarz
 	static final int SLIDER_MIN = 3;
     static final int SLIDER_MAX = 33;
     static final int SLIDER_INIT = 3;
